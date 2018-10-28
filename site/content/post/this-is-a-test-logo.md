@@ -1,0 +1,9 @@
+---
+title: this is a test logo
+date: 2018-10-29T20:07:12.482Z
+description: blablablablablabla blablablablablabla
+image: /img/logo25.09_02.png
+---
+## **blablablablablabla** 
+
+blablablablablablablablablablablabla blablablablablablablablablablablabla blablablablablablablablablablablabla blablablablablablablablablablablabla blablablablablablablablablablablabla blablablablablablablablablablablabla blablablablablablablablablablablabla blablablablablablablablablablablabla blablablablablablablablablablablabla blablablablablablablablablablablabla blablablablablablablablablablablabla blablablablablabla
